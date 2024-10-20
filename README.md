@@ -16,6 +16,10 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/latihan1.modul3&type=Date)](https://star-history.com/#NightRunners02/latihan1.modul3&Date)
 
+---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/tugas3.modul4&type=Timeline)](https://star-history.com/#NightRunners02/tugas3.modul4&Timeline)
+
 </p>
 </div>
 </details>
